@@ -1,7 +1,7 @@
 %{
-Title: Computationally-Efficient Linear Periodically Time-Variant 
-       Digital PLL Modeling Using Conversion Matrices 
-       and Uncorrelated Upsampling
+Title: Linear Periodically Time-Variant Digital PLL Phase
+       Noise Modeling Using Conversion Matrices and
+       Uncorrelated Upsampling
 Authors: Hongyu Lu, Patrick P. Mercier
 Affiliation: UC San Diego
 MATLAB version: R2023b
